@@ -59,10 +59,10 @@ Use aws cloud
 ### Development architecture
 
 ## References
-[AWS EKS / Kubernetes](https://aws.amazon.com/eks/)
-[React](https://react.dev/)
-[Go Lang](https://go.dev/)
-[Tesla API](https://developer.tesla.com/docs/fleet-api)
+- [AWS EKS / Kubernetes](https://aws.amazon.com/eks/)
+- [React](https://react.dev/)
+- [Go Lang](https://go.dev/)
+- [Tesla API](https://developer.tesla.com/docs/fleet-api)
 
 ## Contributing
 create a pull request and merge into main from a fork / branch
